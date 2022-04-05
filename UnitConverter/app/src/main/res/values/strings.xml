@@ -1,0 +1,16 @@
+<resources>
+    <string-array name="units">
+        <item>Metres</item>
+        <item>Celsius</item>
+        <item>Kilograms</item>
+    </string-array>
+
+    <!-- General display box strings -->
+    <string name="app_name">Unit Converter</string>
+    <string name="temperature">Temperature</string>
+    <string name="weight">Weight</string>
+    <string name="measure">Measure</string>
+    <string name="unitspinnerbox">unitSpinnerBox</string>
+    <string name="inputDefault">0</string>
+
+</resources>
